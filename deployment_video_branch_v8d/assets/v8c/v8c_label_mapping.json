@@ -1,0 +1,20 @@
+{
+  "labels": [
+    "happy",
+    "sad",
+    "stressed",
+    "neutral"
+  ],
+  "label_to_id": {
+    "happy": 0,
+    "sad": 1,
+    "stressed": 2,
+    "neutral": 3
+  },
+  "id_to_label": {
+    "0": "happy",
+    "1": "sad",
+    "2": "stressed",
+    "3": "neutral"
+  }
+}

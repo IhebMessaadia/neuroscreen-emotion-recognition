@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Downloaded pretrained models (run download_models.py)
+deployment_video_branch_v8d/assets/hf_cache/
+
+# Datasets (see README)
+Emotions Pics/
+Emotion Vids/
+Emotions Audios/
+ECG + GSR/
+EEG Emotion & Stress Recognition/
+*.csv
+
+# Media
+*.mp4
+*.avi
